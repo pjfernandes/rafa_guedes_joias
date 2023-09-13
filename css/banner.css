@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Roboto:wght@100;300;700&display=swap');
+
+.banner {
+  background-size: cover;
+  background-position: center;
+  padding: 150px 0;
+}
+
+.banner h1 {
+  margin: 0;
+  color: white;
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2);
+  font-size: 60px;
+  font-family: 'Great Vibes', cursive;
+}
+
+.banner p {
+  font-size: 20px;
+  color: white;
+  opacity: .7;
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2);
+  font-family: 'Roboto', sans-serif;
+}
+
+.banner .btn {
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.2);
+  background-color: #82324D;
+  border: 1px solid #82324D;
+}
+
+.banner .btn:hover {
+  background-color: #797572;
+  border: 1px solid #797572;
+}

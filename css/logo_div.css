@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Roboto:wght@100;300;700&display=swap');
+
+.logo-div {
+  background-color: #F0E5E1;
+  margin: 0;
+  color: #82324D;
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2);
+  font-size: 4vw;
+  font-family: 'Great Vibes', cursive;
+}
+
+.logo-div img {
+  filter: drop-shadow(0 0 8px rgba(0, 0, 0, 0.3));
+}
+
+.intro-text {
+  background-color: #F0E5E1;
+  color: #82324D;
+}
+
+.second-div {
+  background-color: black;
+}
+
+.first-jewelry {
+  padding: 50px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.first-jewelry h2 {
+  font-size: 4vw;
+  font-family: 'Great Vibes', cursive;
+  padding: 10px;
+  color: #F0E5E1;
+  padding-left: 50px;
+}
+
+.first-jewelry p {
+  font-size: 2vw;
+  font-weight: bold;
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2);
+  font-family: 'Roboto', sans-serif;
+  padding: 10px;
+  color: #B9B9B9;
+  padding-left: 50px;
+}
+
+
+.first-jewelry img {
+  border-radius: 8px;
+  height: 40vw;
+  filter: invert(0%) sepia(6%) saturate(26%) hue-rotate(224deg) brightness(97%) contrast(107%);
+}
