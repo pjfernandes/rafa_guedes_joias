@@ -5,13 +5,13 @@
   margin: 0;
   color: #82324D;
   text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2);
-  font-size: 6vw;
+  font-size: 42px;
   font-family: 'Great Vibes', cursive;
 }
 
 .first-logo {
   filter: drop-shadow(0 0 8px rgba(0, 0, 0, 0.3));
-  height: 40vw;
+  height: 300px;
 }
 
 .intro-text {
