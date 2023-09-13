@@ -9,8 +9,9 @@
   font-family: 'Great Vibes', cursive;
 }
 
-.logo-div img {
+.first-logo {
   filter: drop-shadow(0 0 8px rgba(0, 0, 0, 0.3));
+  height: 40vw;
 }
 
 .intro-text {
